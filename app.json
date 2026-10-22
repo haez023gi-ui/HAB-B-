@@ -1,4 +1,3 @@
-
 {
   "expo": {
     "name": "Habibi",
@@ -15,6 +14,11 @@
       "package": "site.habibifal.app",
       "adaptiveIcon": {
         "backgroundColor": "#FFF8DF"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3e52e673-2a8d-4972-85c0-1e3b29c13f4c"
       }
     }
   }
