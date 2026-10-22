@@ -1,3 +1,4 @@
+
 {
   "expo": {
     "name": "Habibi",
@@ -15,9 +16,6 @@
       "adaptiveIcon": {
         "backgroundColor": "#FFF8DF"
       }
-    },
-    "plugins": [
-      "react-native-webview"
-    ]
+    }
   }
 }
