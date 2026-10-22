@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Habibi",
+    "slug": "habibi-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "habibi",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "site.habibifal.app"
+    },
+    "android": {
+      "package": "site.habibifal.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#FFF8DF"
+      }
+    },
+    "plugins": [
+      "react-native-webview"
+    ]
+  }
+}
