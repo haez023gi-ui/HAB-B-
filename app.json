@@ -11,7 +11,7 @@
       "bundleIdentifier": "habibi.com"
     },
     "android": {
-      "package": "site.habibifal.app",
+      "package": "habibi.com",
       "adaptiveIcon": {
         "backgroundColor": "#FFF8DF"
       }
