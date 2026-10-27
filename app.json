@@ -8,7 +8,7 @@
     "scheme": "habibi",
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "site.habibifal.app"
+      "bundleIdentifier": "habibi.com"
     },
     "android": {
       "package": "site.habibifal.app",
